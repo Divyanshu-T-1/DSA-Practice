@@ -1,6 +1,6 @@
 // Problem: Max Consecutive Ones 3rd
-// Pattern : Variable Size Window
 // Platform: LeetCode 1004
+// Pattern: Variable Size Window
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
