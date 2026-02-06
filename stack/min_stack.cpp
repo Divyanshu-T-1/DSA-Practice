@@ -15,14 +15,14 @@ public:
     
     void push(int val) {
         st.push(val);
-        if (minSt.empt() || val <= minSt.top()) {
+        if (minSt.empty() || val <= minSt.top()) {
             minSt.push(val);
         }
         
     }
     
     void pop() {
-        if (st.top() = minSt.top()) {
+        if (st.top() == minSt.top()) {
             minSt.pop();
         } 
         st.pop();
