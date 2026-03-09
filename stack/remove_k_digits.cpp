@@ -1,4 +1,4 @@
-// Pattern: Monotonic Stack, LeetCode 402, Remove K Digits
+// Pattern: Monotonic Increasing Stack, LeetCode 402, Remove K Digits
 // Approach: if previous element > current than remove previous element
 // Time Complexity: O(n)
 // Space Complexity: O(n)
