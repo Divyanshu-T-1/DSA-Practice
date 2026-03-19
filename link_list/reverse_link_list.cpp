@@ -1,7 +1,7 @@
 // Problem: Reverse Linked List, LeetCode 206
 // Approach: Two Pointer
 // Time Complexity: O(n) due to n element
-// Space Complexity; O(1)
+// Space Complexity: O(1) because we use three pointers only which take constant space
 
 class Solution {
 public:
